@@ -1,4 +1,4 @@
-# Titan Pocket Toolkit
+# Titan Pocket Toolbox
 
 ### Guides
 - [Rooting your Titan Pocket with Magisk](https://github.com/505e06b2/Titan-Pocket-Toolkit/issues/1)
